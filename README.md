@@ -1,6 +1,6 @@
-# Flutter Plants App UI
+# Flutter Plant App UI
 
-Plants App UI made with Flutter
+Plant App UI made with Flutter
 
 ## Screenshots
 
