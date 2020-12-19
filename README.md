@@ -1,6 +1,6 @@
-# Plants
+# Flutter Plants App UI
 
-A new Flutter project.
+Plants App UI made with Flutter
 
 ## Getting Started
 
